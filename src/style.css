@@ -20,6 +20,8 @@ textarea {
   outline: none;
   resize: none;
   color: #fff;
+  overflow-y: auto;
+  white-space: nowrap;
 }
 
 #encode {
