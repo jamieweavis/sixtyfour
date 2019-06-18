@@ -6,6 +6,12 @@
   "bugs": {
     "url": "https://github.com/jamieweavis/sixtyfour/issues"
   },
+  "build": {
+    "appId": "com.jamieweavis.sixtyfour",
+    "mac": {
+      "darkModeSupport": true
+    }
+  },
   "dependencies": {
     "menubar": "^6.0.5"
   },
@@ -49,10 +55,10 @@
     "url": "git+https://github.com/jamieweavis/sixtyfour.git"
   },
   "scripts": {
-    "pack": "electron-builder --dir",
     "dist": "electron-builder",
     "format": "prettier --write 'src/**/*.js'",
     "lint": "eslint src",
+    "pack": "electron-builder --dir",
     "start": "electron src/app.js"
   }
 }
