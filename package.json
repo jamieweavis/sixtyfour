@@ -16,9 +16,16 @@
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-prettier": "^5.0.0",
     "eslint-plugin-import": "^2.17.3",
+    "husky": "^2.4.1",
+    "lint-staged": "^8.2.1",
     "prettier": "^1.18.2"
   },
   "homepage": "https://github.com/jamieweavis/sixtyfour#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "keywords": [
     "base64",
     "base64-decoding",
@@ -29,6 +36,13 @@
     "menubar-app"
   ],
   "license": "ISC",
+  "lint-staged": {
+    "*.js": [
+      "prettier --write",
+      "eslint",
+      "git add"
+    ]
+  },
   "main": "src/app.js",
   "repository": {
     "type": "git",
