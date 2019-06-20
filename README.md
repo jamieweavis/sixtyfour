@@ -21,11 +21,6 @@ Download the latest version of sixtyfour from the **[GitHub releases](https://gi
 
 <img src="./screenshots/screenshot.png" width="462" alt="Preferences Screenshot">
 
-## Related
-
-- [streaker](https://github.com/jamieweavis/streaker) - 🐙 GitHub contribution streak & stat tracking menu bar app
-- [afk](https://github.com/jamieweavis/afk) - 🏃‍♂️ The missing screen saver shortcut for macOS
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
