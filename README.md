@@ -1,4 +1,4 @@
-<p align="center"><img src="./screenshots/icon@2x.png" height="64" alt="Streaker Icon"></p>
+<p align="center"><img src="./screenshots/icon@2x.png" height="64" alt="sixtyfour Icon"></p>
 <h3 align="center">sixtyfour</h3>
 <p align="center">🤖 Base64 encode/decode menubar application<p>
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## Installation
 
-Download the latest version of sixtyfour from the **[GitHub releases](https://github.com/jamieweavis/streaker/releases)** page.
+Download the latest version of sixtyfour from the **[GitHub releases](https://github.com/jamieweavis/sixtyfour/releases)** page.
 
 ## Features
 
