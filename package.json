@@ -55,7 +55,7 @@
     "url": "git+https://github.com/jamieweavis/sixtyfour.git"
   },
   "scripts": {
-    "dist": "electron-builder",
+    "dist": "electron-builder -m -l -w",
     "format": "prettier --write 'src/**/*.{js,html}'",
     "lint": "eslint src",
     "pack": "electron-builder --dir",
