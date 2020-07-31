@@ -1,12 +1,19 @@
-<p align="center"><img src="./screenshots/icon@2x.png" height="64" alt="sixtyfour Icon"></p>
-<h3 align="center">sixtyfour</h3>
-<p align="center">🤖 Base64 encode/decode menubar application<p>
-<p align="center">
-    <a href="https://github.com/jamieweavis/sixtyfour/releases"><img src="https://img.shields.io/github/downloads/jamieweavis/sixtyfour/total.svg" alt="GitHub Downloads"></a>
-    <a href="https://github.com/jamieweavis/sixtyfour/releases"><img src="https://img.shields.io/github/release/jamieweavis/sixtyfour.svg" alt="Current Release Version"></a>
-    <a href="https://github.com/jamieweavis/sixtyfour/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
-    <a href="https://github.com/airbnb/javascript"><img src="https://img.shields.io/badge/codestyle-airbnb-fd5c63.svg" alt="airbnb Code Style"></a>
-</p>
+# sixtyfour <img src="./screenshots/icon.svg" align="right">
+
+> 🤖 Base64 encode/decode menubar application
+
+
+![Node.js CI](https://github.com/jamieweavis/sixtyfour/workflows/Node.js%20CI/badge.svg)
+[![Downloads](https://img.shields.io/github/downloads/jamieweavis/sixtyfour/total.svg)](https://github.com/jamieweavis/sixtyfour/releases)
+[![Version](https://img.shields.io/github/release/jamieweavis/sixtyfour.svg)](https://github.com/jamieweavis/sixtyfour/releases)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jamieweavis/sixtyfour/blob/master/LICENSE.md)
+[![Style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
+
+## Contents
+
+- [Installation](#installation)
+- [Features](#features)
+- [Screenshot](#screenshot)
 
 ## Installation
 
