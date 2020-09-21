@@ -23,7 +23,7 @@
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-import": "2.18.2",
     "husky": "4.2.5",
-    "lint-staged": "10.2.11",
+    "lint-staged": "10.4.0",
     "prettier": "2.0.5"
   },
   "homepage": "https://github.com/jamieweavis/sixtyfour#readme",
